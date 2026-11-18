@@ -24,4 +24,5 @@ No new pages, no layout or style changes, no scripts, trackers or embeds, and no
 ## Never
 - Change `CNAME`, DNS, Cloudflare, GitHub Pages settings or email records. Wrong DNS breaks Tony's email and every domain. That's John's job.
 - Put a token, password or key in a file, commit or message.
+- Use Tony's owner rights on the 4X4T GitHub organisation: no changes to settings, secrets, members, apps or workflows, and never delete, rename or archive a repo. Those are John's jobs.
 - Delete pages or files. Old pages need redirects, and those are part of the move to the new site.
